@@ -41,3 +41,33 @@ dotnet run --project ProjectName.App
 - Commit early and commit often.
 - Your repository history is part of your submission.
 - Update this README with build/run instructions specific to your project.
+
+
+The game supports 2–4 players, and the player count can be provided in two ways. 
+
+1.
+dotnet run -- 3
+
+2.
+Enter number of players (2–4):
+
+When the game starts, you choose from the menu:
+
+1.Automatic
+2.Manual
+
+After the game ends, the console asks if the user wants to play again.
+
+
+This project was submitted through GitHub Classroom.
+My repository link:
+https://github.com/etsucs-scott/project-2-whitele3
+
+The repository includes:
+
+WarGame.Core
+WarGame.Console
+UML diagram (PDF)
+README.md (this file)
+
+
